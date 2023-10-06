@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Pal</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A passionate Java full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitpal26&label=Profile%20views&color=0e75b6&style=flat" alt="ankitpal26" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 📫 How to reach me **apal4077@gmail.com**
+- 📫 How to reach me **apal28090016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
