@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 📫 How to reach me **apal28090016@gmail.com**
+- 📫 How to reach me **apal4077@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
