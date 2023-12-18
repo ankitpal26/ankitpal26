@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitpal26&label=Profile%20views&color=0e75b6&style=flat" alt="ankitpal26" /> </p>
 
-- 🔭 I’m currently working on **Springboot project**
+- 🔭 I’m currently working on **Java Backend Development**
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **Microservices**
 
-- 📫 How to reach me **apal4077@gmail.com**
+- 📫 How to reach me **ankitpal28090016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
